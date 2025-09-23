@@ -28,3 +28,18 @@
 .big-btn-blue3:hover   { background-color:#63CDFD; }
 .big-btn-green:hover  { background-color:#2f855a; }
 
+/* Desktop: zet sidebar op vaste breedte en laat content ernaast meegroeien */
+@media (min-width: 1024px) {
+  .side-bar {
+    width: 260px !important;      /* kies je gewenste breedte */
+    flex: 0 0 260px !important;   /* niet meerekken */
+  }
+
+  .main {
+    margin-left: 260px !important; /* zelfde waarde als hierboven */
+    max-width: none !important;    /* laat content meeschalen */
+  }
+}
+
+/* Zorg dat de nav-footer niet gaat ‘zweven’ */
+.side-bar .nav-footer { position: static; }
