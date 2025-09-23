@@ -14,3 +14,10 @@ Welkom! Kies links in de zijbalk of gebruik de tiles hieronder.
 [![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](https://github.com/i-Sociaal-Lab/jaapjunior)
 
 </div>
+
+<div class="card-grid">
+  <a class="card" href="https://i-sociaal-lab.github.io/jaapjunior/">
+    <h3>JaapJunior</h3>
+    <p>AI-chatbot voor iJw/iWmo – bekijk de demo en docs.</p>
+  </a>
+</div>
