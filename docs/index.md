@@ -20,9 +20,9 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 -->
 
 <div class="big-buttons">
-  <a class="big-btn big-btn-purple" href="./dashboards">Dashboards</a>
-  <a class="big-btn big-btn-blue" href="./data-governance">Data Governance</a>
-  <a class="big-btn big-btn-green" href="./jaapjunior">JaapJunior</a>
+  <a class="big-btn big-btn-blue1" href="./dashboards">Dashboards</a>
+  <a class="big-btn big-btn-blue2" href="./data-governance">Data Governance</a>
+  <a class="big-btn big-btn-blue3" href="./jaapjunior">JaapJunior</a>
 </div>
 
 
