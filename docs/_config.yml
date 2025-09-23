@@ -6,7 +6,7 @@ remote_theme: just-the-docs/just-the-docs
 search_enabled: true
 
 # Logo + titel in de header (logo zie stap 2)
-logo: /assets/i-Sociaal Lab logo transparant.png
+logo: /assets/i-Sociaal_Lab_logo_transparant.png
 
 # Bovenbalk: extra navigatie-links (rechtsboven)
 aux_links:
