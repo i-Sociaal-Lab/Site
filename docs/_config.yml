@@ -11,7 +11,7 @@ logo: assets/logo.png
 # Favicon met logo 
 favicon_ico: /assets/favicon.png
 
-nav-footer: '<center><small>© 2025 i-Sociaal Lab</small></center><br>
+nav-footer: '<center><small>© 2025 i-Sociaal Lab</small></center><br>'
 
 # Bovenbalk: extra navigatie-links (rechtsboven)
 aux_links:
