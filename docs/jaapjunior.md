@@ -16,7 +16,7 @@ AI‑assistent voor iJw‑berichtenverkeer (Jeugdwet)
 
 **Status:** testfase door Ketenbureau i-Sociaal Domein
 
-[![Repo-JaapJunior](https://img.shields.io/badge/Repo-JaapJunior-purple?style=for-the-badge)](https://github.com/i-Sociaal-Lab/jaapjunior)
+[![Repo-JaapJunior](https://img.shields.io/badge/Repo_JaapJunior-purple?style=for-the-badge)](https://github.com/i-Sociaal-Lab/jaapjunior)
 
 ---
 
