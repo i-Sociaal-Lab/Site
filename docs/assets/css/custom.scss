@@ -45,3 +45,8 @@
 @media (min-width: 1024px) {
   .side-bar .nav-footer { position: static; text-align: center; }
 }
+
+/* nav-footer verbergen op kleine schermen
+@media (max-width: 1023px) {
+  .side-bar .nav-footer { display: none !important; }
+}
