@@ -6,7 +6,7 @@ remote_theme: just-the-docs/just-the-docs
 search_enabled: true
 
 # Logo + titel in de header (logo zie stap 2)
-logo: assets/i-Sociaal_Lab_logo_transparant.png
+logo: assets/logo.png
 
 # Favicon met logo 
 favicon_ico: /assets/favicon.png
