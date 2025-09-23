@@ -15,9 +15,3 @@ Welkom! Kies links in de zijbalk of gebruik de tiles hieronder.
 
 </div>
 
-<div class="card-grid">
-  <a class="card" href="https://i-sociaal-lab.github.io/jaapjunior/">
-    <h3>JaapJunior</h3>
-    <p>AI-chatbot voor iJw/iWmo – bekijk de demo en docs.</p>
-  </a>
-</div>
