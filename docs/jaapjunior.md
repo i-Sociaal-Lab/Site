@@ -1,6 +1,6 @@
 ---
 title: Jaapjunior
-parent: Start
+parent: i-Sociaal Lab
 nav_order: 4
 permalink: /jaapjunior/
 ---
