@@ -6,7 +6,7 @@ permalink: /jaapjunior/
 ---
 
 # Jaapjunior
-### AI‑assistent voor iJw‑berichtenverkeer (Jeugdwet)<br><br>  
+## AI‑assistent voor iJw‑berichtenverkeer (Jeugdwet)<br><br>  
 
 **Doel:** gebruikers helpen met **precieze, verifieerbare antwoorden** over het iJw‑berichtenverkeer tussen gemeenten en jeugdzorgaanbieders in Nederland.
 
