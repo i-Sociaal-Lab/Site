@@ -42,4 +42,6 @@
 }
 
 /* Zorg dat de nav-footer niet gaat ‘zweven’ */
-.side-bar .nav-footer { position: static; }
+@media (min-width: 1024px) {
+  .side-bar .nav-footer { position: static; text-align: center; }
+}
