@@ -1,12 +1,21 @@
 ---
 ---
 
-.site-title {
-  display: flex;
-  align-items: center;
+/* Tekst na het logo, zonder header-layout te veranderen */
+.site-title::after {
+  content: " i-Sociaal Lab";
+  font-weight: 600;
+  margin-left: .5rem;
+  white-space: nowrap;
 }
 
+/* Logo iets kleiner en netjes uitgelijnd */
 .site-logo {
-  margin-right: .5rem; /* ruimte tussen logo en tekst */
-  max-height: 32px; /* hoogte logo */
+  max-height: 28px;
+  vertical-align: middle;
+}
+
+/* Op small screens de extra tekst verbergen (ruimte besparen) */
+@media (max-width: 768px) {
+  .site-title::after { display: none; }
 }
