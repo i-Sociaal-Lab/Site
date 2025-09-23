@@ -1,0 +1,19 @@
+title: i-Sociaal Lab
+description: Samen werken aan dataproducten, dashboards en AI-initiatieven.
+remote_theme: just-the-docs/just-the-docs
+
+# Zoekbalk in de topbar
+search_enabled: true
+
+# Logo + titel in de header (logo zie stap 2)
+logo: /assets/logo.png
+
+# Bovenbalk: extra navigatie-links (rechtsboven)
+aux_links:
+  "Discussions":
+    - "https://github.com/i-Sociaal-Lab/hub/discussions"
+  "GitHub organisatie":
+    - "https://github.com/i-Sociaal-Lab"
+
+# (optioneel) kleurmodus
+color_scheme: light
