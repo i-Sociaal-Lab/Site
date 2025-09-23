@@ -9,6 +9,6 @@ has_toc: false
 
 Samen werken aan dataproducten, dashboards en AI-initiatieven.
 
-[![Datasets](https://img.shields.io/badge/Datasets-blue?style=for-the-badge)](./datasets)
+[![Datasets](https://img.shields.io/badge/Datasets-blue?style=for-the-badge)](./datasets.md)
 [![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](./dashboards)
 [![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](./jaapjunior)
