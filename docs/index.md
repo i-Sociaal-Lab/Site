@@ -5,7 +5,7 @@ has_children: true
 has_toc: false
 ---
 
-## Samen werken aan dataproducten, dashboards en AI-initiatieven.
+## Samen werken aan data-producten
 
 [![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](./dashboards/)
 [![Data-governance](https://img.shields.io/badge/Data_governance-blue?style=for-the-badge)](./data-governance/)
