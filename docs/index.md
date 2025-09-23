@@ -10,7 +10,9 @@ has_toc: false
 Samen werken aan dataproducten, dashboards en AI-initiatieven.
 
 <div align="left">
+  
 [![Datasets](https://img.shields.io/badge/Datasets-blue?style=for-the-badge)](https://github.com/i-Sociaal-Lab/datasets)
 [![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](https://github.com/i-Sociaal-Lab/dashboards)
 [![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](https://i-sociaal-lab.github.io/jaapjunior/)
+
 </div>
