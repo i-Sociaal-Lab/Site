@@ -16,6 +16,7 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 [![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](./dashboards/)
 [![Data-governance](https://img.shields.io/badge/Data_governance-blue?style=for-the-badge)](./data-governance/)
 [![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](./jaapjunior/)
+[![Datasets](https://img.shields.io/badge/Datasets-blue?style=for-the-badge&labelColor=black&color=blueviolet&logo=github&logoWidth=30)](./datasets)
 
 <div class="big-buttons">
   <a class="big-btn" href="./dashboards">Dashboards</a>
