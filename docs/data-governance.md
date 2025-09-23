@@ -1,7 +1,7 @@
 ---
 title: Data governance
 parent: Start
-nav_order: 2
+nav_order: 3
 ---
 
 # 📊 Data governance
