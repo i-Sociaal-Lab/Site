@@ -10,5 +10,5 @@ has_toc: false
 Samen werken aan dataproducten, dashboards en AI-initiatieven.
 
 [![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](./dashboards)
-[![Datasets](https://img.shields.io/badge/Datasets-blue?style=for-the-badge)](./data-governance)
+[![Data-governance](https://img.shields.io/badge/Datasets-blue?style=for-the-badge)](./data-governance)
 [![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](./jaapjunior)
