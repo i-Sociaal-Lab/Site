@@ -21,5 +21,5 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 <div class="big-buttons">
   <a class="big-btn" href="./dashboards">Dashboards</a>
   <a class="big-btn" href="./data-governance">Data Governance</a>
-  <a class="big-btn" href="./jaapjunior">Jaapjunior</a>
+  <a class="big-btn" href="./jaapjunior">JaapJunior</a>
 </div>
