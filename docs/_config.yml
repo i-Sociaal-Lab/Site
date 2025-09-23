@@ -8,6 +8,9 @@ search_enabled: true
 # Logo + titel in de header (logo zie stap 2)
 logo: assets/i-Sociaal_Lab_logo_transparant.png
 
+# Favicon met logo 
+favicon_ico: /assets/favicon.png
+
 # Bovenbalk: extra navigatie-links (rechtsboven)
 aux_links:
   Discussions: https://github.com/i-Sociaal-Lab/hub/discussions
