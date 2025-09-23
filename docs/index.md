@@ -10,7 +10,7 @@ Welkom! Kies links in de zijbalk of gebruik de tiles hieronder.
 <div align="center">
 
 [![Datasets](https://img.shields.io/badge/Datasets-blue?style=for-the-badge)](https://github.com/i-Sociaal-Lab/datasets)
-[![Dashboards](https://img.shields.io/badge/PowerBI%20Dashboards-green?style=for-the-badge)](https://github.com/i-Sociaal-Lab/dashboards)
+[![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](https://github.com/i-Sociaal-Lab/dashboards)
 [![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](https://github.com/i-Sociaal-Lab/jaapjunior)
 
 </div>
