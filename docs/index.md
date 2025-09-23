@@ -6,6 +6,13 @@ has_toc: false
 ---
 # Samen werken aan data-producten
 
+Ons doel:
+
+- **Samenwerking versterken** tussen gemeenten onderling en met aanbieders.
+- **Delen van werkende dataproduc­ten** om hergebruik te stimuleren en versnippering van kennis en capaciteit te beperken.
+
+Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële besparing, zowel financieel als maatschappelijk—cruciaal in tijden van financiële krapte.
+
 [![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](./dashboards/)
 [![Data-governance](https://img.shields.io/badge/Data_governance-blue?style=for-the-badge)](./data-governance/)
 [![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](./jaapjunior/)
