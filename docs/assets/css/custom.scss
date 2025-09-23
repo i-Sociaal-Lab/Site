@@ -1,20 +1,26 @@
 ---
 ---
+
 .big-buttons {
   display: flex;
+  flex-wrap: wrap;
   gap: 1rem;
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
+
 .big-btn {
-  background: #6b46c1; /* paars */
-  color: white;
-  text-decoration: none;
+  background-color: #6b46c1; /* paars */
+  color: #fff !important;
+  text-decoration: none !important;
   padding: 1rem 2rem;
   border-radius: 8px;
   font-size: 1.2rem;
   font-weight: bold;
   text-align: center;
+  min-width: 200px;
+  transition: background-color 0.2s ease;
 }
+
 .big-btn:hover {
-  background: #553c9a;
+  background-color: #553c9a;
 }
