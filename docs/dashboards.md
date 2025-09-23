@@ -1,6 +1,6 @@
 ---
 title: Dashboards
-parent: Start
+parent: i-Sociaal Lab
 nav_order: 2
 permalink: /dashboards/
 ---
