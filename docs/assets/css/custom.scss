@@ -28,14 +28,3 @@
 .big-btn-blue3:hover   { background-color:#63CDFD; }
 .big-btn-green:hover  { background-color:#2f855a; }
 
-/* Sidebar altijd vaste breedte */
-.site-nav {
-  width: 260px;       /* vaste breedte, bv. 260px */
-  flex: 0 0 260px;    /* niet mee-rekken */
-}
-
-/* Content-area ernaast */
-.main-content-wrap {
-  margin-left: 260px; /* zelfde waarde als hierboven */
-  max-width: none;    /* laat de content full width groeien */
-}
