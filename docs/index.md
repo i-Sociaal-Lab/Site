@@ -13,10 +13,11 @@ Ons doel:
 
 Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële besparing, zowel financieel als maatschappelijk—cruciaal in tijden van financiële krapte.
 
-#[![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](./dashboards/)
-#[![Data-governance](https://img.shields.io/badge/Data_governance-blue?style=for-the-badge)](./data-governance/)
-#[![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](./jaapjunior/)
-
+<!-- even buiten gebruik gezet, andere knoppen
+[![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](./dashboards/)
+[![Data-governance](https://img.shields.io/badge/Data_governance-blue?style=for-the-badge)](./data-governance/)
+[![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](./jaapjunior/)
+-->
 
 <div class="big-buttons">
   <a class="big-btn big-btn-purple" href="./dashboards">Dashboards</a>
