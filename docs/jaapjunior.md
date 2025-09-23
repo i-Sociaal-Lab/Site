@@ -2,6 +2,7 @@
 title: Jaapjunior
 parent: Start
 nav_order: 4
+permalink: /jaapjunior/
 ---
 
 # Jaapjunior
