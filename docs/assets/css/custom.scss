@@ -1,5 +1,12 @@
-.card-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(240px,1fr)); gap:16px; margin:1rem 0 2rem; }
-.card { display:block; padding:16px; border:1px solid var(--color-border); border-radius:12px; text-decoration:none; }
-.card:hover { box-shadow:0 2px 12px rgba(0,0,0,.06); }
-.card h3 { margin:0 0 6px; }
-.card p { margin:0; color:var(--color-fg-muted); }
+---
+---
+
+.site-title {
+  display: flex;
+  align-items: center;
+}
+
+.site-logo {
+  margin-right: .5rem; /* ruimte tussen logo en tekst */
+  max-height: 32px; /* hoogte logo */
+}
