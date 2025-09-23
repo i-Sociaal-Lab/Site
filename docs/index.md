@@ -4,7 +4,6 @@ nav_order: 1
 has_children: true
 has_toc: false
 ---
-
 # Samen werken aan data-producten
 
 [![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](./dashboards/)
