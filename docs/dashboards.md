@@ -2,6 +2,7 @@
 title: Dashboards
 parent: Start
 nav_order: 2
+permalink: /dashboards/
 ---
 
 # 📊 Dashboards
