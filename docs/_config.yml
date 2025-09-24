@@ -9,7 +9,7 @@ search_enabled: true
 logo: assets/logo.png
 
 # Favicon met logo 
-favicon_ico: /assets/favicon.png
+favicon_ico: assets/favicon.png
 
 nav-footer: "© 2025 i-Sociaal Lab    "
 
