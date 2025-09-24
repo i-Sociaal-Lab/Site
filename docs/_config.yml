@@ -1,11 +1,11 @@
 title: i-Sociaal Lab
-description: Samen werken aan dataproducten, dashboards en AI-initiatieven.
+description: Samen werken aan dataproducten
 remote_theme: just-the-docs/just-the-docs
 
 # Zoekbalk in de topbar
 search_enabled: true
 
-# Logo + titel in de header (logo zie stap 2)
+# Logo + titel in de header (1 plaatje)
 logo: assets/logo.png
 
 # Favicon met logo 
