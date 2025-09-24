@@ -15,8 +15,8 @@ nav-footer: "© 2025 i-Sociaal Lab    "
 
 # Bovenbalk: extra navigatie-links (rechtsboven)
 aux_links:
-  Discussions: https://github.com/i-Sociaal-Lab/hub/discussions
-  GitHub organisatie: https://github.com/i-Sociaal-Lab
+  Ketenbureau: https://i-sociaaldomein.nl
+  GitHub: https://github.com/i-Sociaal-Lab
 
 # (optioneel) kleurmodus
 color_scheme: light
