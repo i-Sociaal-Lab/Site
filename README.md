@@ -40,10 +40,12 @@ permalink: /dashboards/wachttijden/   # exacte pad naar markdown-pagina
 Dit bepaalt hoe de pagina in het menu verschijnt en naar welke “ouderpagina” (zoals Data-producten) hij hoort.
 
 **2.	Hoofdpagina (index.md)**
+
 Dit is de startpagina van de site.
 Alles wat hier staat, wordt als eerste getoond wanneer iemand naar de website-URL gaat.
 	
 **3.	Stijl (SCSS / CSS)**
+
 In docs/assets/css/custom.scss staat de eigen opmaak (bijv. knoppen en kleuren).
 Deze SCSS-file wordt automatisch omgezet naar CSS bij het bouwen van de site.
 	
