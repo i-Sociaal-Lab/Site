@@ -14,14 +14,14 @@ Bij de Wmo en Jeugdwet nemen de uitgaven ook toe met de leeftijd, waarbij de zor
 
 | Leeftijd | Zvw | Wlz | Wmo | Jeugd |
 | --- | --- | --- | --- | --- |
-| 0 | 4430 | 5 | 1 | 85 |
-| 1 | 2655 | 11 | 1 | 207 |
-| 2 | 1495 | 115 | 4 | 263 |
+| 0 | 4.430 | 5 | 1 | 85 |
+| 1 | 2.655 | 11 | 1 | 207 |
+| 2 | 1.495 | 115 | 4 | 263 |
 | 3 | 857 | 8 | 5 | 561 |
 | 4 | 626 | 4 | 8 | 943 |
 | ..| .. | .. | .. | .. |
-| 98 | 13184 | 40051 | 1612 | 0 |
-| 99 en ouder | 13129 | 42530 | 1610 | 0 |
+| 98 | 13.184 | 40.051 | 1612 | 0 |
+| 99 en ouder | 13.129 | 42.530 | 1.610 | 0 |
 
 *gemiddelde uitgaven per inwoner (in euro's)*
 
