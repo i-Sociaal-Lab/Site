@@ -25,6 +25,4 @@ Bij de Wmo en Jeugdwet nemen de uitgaven ook toe met de leeftijd, waarbij de zor
 
 *gemiddelde uitgaven per inwoner (in euro's)*
 
-**Download:**  
-
-https://i-sociaal-lab.github.io/Site/datasets/CPB_uitgaven_per_leeftijdscategorie_2022.xlsx
+➡️ [Klik hier om het Excel-bestand te downloaden](https://i-sociaal-lab.github.io/Site/datasets/CPB_uitgaven_per_leeftijdscategorie_2022.xlsx)
