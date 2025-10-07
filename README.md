@@ -11,16 +11,17 @@ De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 
 - **docs/**
   - `index.md` – hoofdpagina (start)
+  - `_config.yml` – site-instellingen
+  - `xxx.md` – diverse pagina's
   - **dashboards/**
     - `wachttijden.md`
     - `datakwaliteit.md`
   - **datasets/**
     - `cpb-leeftijdskosten.md`
-  - **zorgpaden/**
-    - `index.md`
   - **assets/css/**
     - `custom.scss` – opmaak
-  - `_config.yml` – site-instellingen
+    - `favicon.png` – pictogram in browser
+    - `logo.png` – logo i-Sociaal Lab
 - `README.md` – uitleg voor beheerders
 ⸻
 
