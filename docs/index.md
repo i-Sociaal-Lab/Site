@@ -18,7 +18,6 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
   <a class="big-btn big-btn-blue1" href="./data-governance">Data Governance</a>
   <a class="big-btn big-btn-blue2" href="./dataproducten">Data-producten</a>
   <a class="big-btn big-btn-blue3" href="./datasets">Datasets</a>
-  <a class="big-btn big-btn-blue1" href="./jaapjunior">JaapJunior</a>
 </div>
 
 ## Direct naar data-producten
