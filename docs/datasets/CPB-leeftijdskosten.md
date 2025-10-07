@@ -2,7 +2,7 @@
 title: CPB-uitgaven leeftijdscategorie
 parent: Datasets
 nav_order: 1
-permalink: /Uitgaven leefijdscategorie/
+permalink: /datasets/CPB-leeftijdskosten/
 ---
 
 ## Uitgaven per leeftijdscategorie (2022)
