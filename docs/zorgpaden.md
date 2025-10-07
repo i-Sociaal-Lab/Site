@@ -1,6 +1,6 @@
 ---
 title: Zorgpaden
-parent: dataproducten
+parent: Data-producten
 nav_order: 3
 permalink: /zorgpaden/
 ---
