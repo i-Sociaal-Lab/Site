@@ -19,7 +19,7 @@ De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
     - `favicon.png` – pictogram in browser
     - `logo.png` – logo i-Sociaal Lab
 - `README.md` – uitleg voor beheerders
-
+<hr style="border: 2px solid #02557A; border-radius: 2px; margin: 2rem 0;">
 ### 🧩 Werking in het kort
 **1.	Markdown-pagina’s** 
 
