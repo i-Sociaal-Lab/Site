@@ -1,5 +1,5 @@
 ---
-title: Data-producten
+title: Dataproducten
 parent: i-Sociaal Lab
 nav_order: 2
 permalink: /dataproducten/
