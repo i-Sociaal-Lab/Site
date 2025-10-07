@@ -19,7 +19,6 @@ De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
     - `favicon.png` – pictogram in browser
     - `logo.png` – logo i-Sociaal Lab
 - `README.md` – uitleg voor beheerders
-⸻
 
 ### 🧩 Werking in het kort
 **1.	Markdown-pagina’s** 
@@ -62,13 +61,9 @@ Voorbeeld:
 Het thema verzorgt de layout, zijbalk, zoekbalk en structuur.
 De navigatie-hiërarchie wordt automatisch opgebouwd op basis van de parent- en nav_order-velden in de front matter.
 
-⸻
-
 ### 🚀 Publicatie
 	•	GitHub Pages bouwt de site automatisch bij elke commit naar de main-branch.
 	•	De site wordt gepubliceerd op https://i-sociaal-lab.github.io
-
-⸻
 
 ### 💡 Tips voor beheerders
 	•	Nieuwe pagina maken? Voeg een nieuwe .md toe in de juiste map en geef hem een title en parent in de YAML-kop.
