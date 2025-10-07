@@ -13,6 +13,8 @@ Ons doel:
 
 Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële besparing, zowel financieel als maatschappelijk—cruciaal in tijden van financiële krapte.
 
+*i-Sociaal Lab is een initiatief van het Ketenbureau i-Sociaal Domein
+
 ---
 
 ## Verken onze bouwstenen
