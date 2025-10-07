@@ -5,5 +5,5 @@ nav_order: 2
 permalink: /dataproducten/
 ---
 
-# 📊 Dataproducten
+# 📊 Data-producten
 Korte uitleg… en knoppen naar de repo’s of releases.
