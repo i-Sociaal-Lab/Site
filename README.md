@@ -1,7 +1,5 @@
 ## 🧭 Handleiding – Opbouw van deze GitHub Pages-website
 
-url: i-sociaal-lab.github.io
-
 Deze site is opgebouwd met GitHub Pages en Jekyll.
 De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 
@@ -50,6 +48,7 @@ In docs/assets/css/custom.scss staat de eigen opmaak (bijv. knoppen en kleuren).
 Deze SCSS-file wordt automatisch omgezet naar CSS bij het bouwen van de site.
 	
 **4.	Configuratie (_config.yml)**
+
 Deze YAML-file bepaalt:
 	•	welk thema wordt gebruikt (bijv. just-the-docs)
 	•	titel van de site
@@ -59,6 +58,7 @@ Deze YAML-file bepaalt:
 Voorbeeld:
 
 **5.	Thema (Just-the-Docs)**
+
 Het thema verzorgt de layout, zijbalk, zoekbalk en structuur.
 De navigatie-hiërarchie wordt automatisch opgebouwd op basis van de parent- en nav_order-velden in de front matter.
 
@@ -66,9 +66,7 @@ De navigatie-hiërarchie wordt automatisch opgebouwd op basis van de parent- en 
 
 ### 🚀 Publicatie
 	•	GitHub Pages bouwt de site automatisch bij elke commit naar de main-branch.
-	•	De site wordt gepubliceerd op
-https://<organisatie>.github.io/<repositorynaam>/
-(of op een eigen domein als dat is ingesteld).
+	•	De site wordt gepubliceerd op https://i-sociaal-lab.github.io
 
 ⸻
 
