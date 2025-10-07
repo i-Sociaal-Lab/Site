@@ -55,8 +55,20 @@ Deze YAML-file bepaalt:
 	•	links naar GitHub of zoekfunctie
 
 Voorbeeld:
+```yaml
+title: i-Sociaal Lab
+description: Samen werken aan dataproducten
+remote_theme: just-the-docs/just-the-docs
 
+# Zoekbalk in de topbar
+search_enabled: true
 
+nav-footer: "© 2025 i-Sociaal Lab    "
+
+# Bovenbalk: extra navigatie-links (rechtsboven)
+aux_links:
+  Ketenbureau: https://i-sociaaldomein.nl
+```
 **5.	Thema (Just-the-Docs)**
 
 Het thema verzorgt de layout, zijbalk, zoekbalk en structuur.
