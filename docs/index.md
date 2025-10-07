@@ -13,12 +13,16 @@ Ons doel:
 
 Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële besparing, zowel financieel als maatschappelijk—cruciaal in tijden van financiële krapte.
 
+---
+
 ## Verken onze bouwstenen
 <div class="big-buttons">
   <a class="big-btn big-btn-blue1" href="./data-governance">Data Governance</a>
   <a class="big-btn big-btn-blue2" href="./dataproducten">Data-producten</a>
   <a class="big-btn big-btn-blue3" href="./datasets">Datasets</a>
 </div>
+
+---
 
 ## Direct naar data-producten
 <div class="small-buttons">
@@ -28,3 +32,5 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
   <a class="small-btn" href="./dashboards/wachttijden/" >⏱️ Wachttijden</a>
   <a class="small-btn" href="./zorgpaden/">🧭 Zorgpaden</a>
 </div>
+
+---
