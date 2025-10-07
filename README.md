@@ -8,6 +8,7 @@ De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 ### 📁 Mappenstructuur
 
 docs/
+
 index.md                ← hoofdpagina (startpagina)
 dashboards/
 wachttijden.md
