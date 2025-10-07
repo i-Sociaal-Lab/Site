@@ -4,7 +4,7 @@ nav_order: 1
 has_children: true
 has_toc: false
 ---
-# Samen werken aan data-producten
+# Samen werken met data in het Sociaal Domein
 
 Ons doel:
 
@@ -13,16 +13,15 @@ Ons doel:
 
 Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële besparing, zowel financieel als maatschappelijk—cruciaal in tijden van financiële krapte.
 
-<!-- even buiten gebruik gezet, andere knoppen
-[![Dashboards](https://img.shields.io/badge/Dashboards-green?style=for-the-badge)](./dashboards/)
-[![Data-governance](https://img.shields.io/badge/Data_governance-blue?style=for-the-badge)](./data-governance/)
-[![JaapJunior](https://img.shields.io/badge/JaapJunior-purple?style=for-the-badge)](./jaapjunior/)
--->
-
+## Verken. Begrijp. Gebruik
 <div class="big-buttons">
-  <a class="big-btn big-btn-blue1" href="./dashboards">Dashboards</a>
-  <a class="big-btn big-btn-blue2" href="./data-governance">Data Governance</a>
-  <a class="big-btn big-btn-blue3" href="./jaapjunior">JaapJunior</a>
+  <a class="big-btn big-btn-blue1" href="./data-governance">Data Governance</a>
+  <a class="big-btn big-btn-blue2" href="./dashboards">Dataproducten</a>
+  <a class="big-btn big-btn-blue3" href="./data-governance">Datasets</a>
+  <a class="big-btn big-btn-blue1" href="./jaapjunior">JaapJunior</a>
 </div>
 
-
+## Direct naar data-producten
+<div class="big-buttons">
+  <a class="big-btn big-btn-blue1" href="./jaapjunior">JaapJunior</a>
+</div>
