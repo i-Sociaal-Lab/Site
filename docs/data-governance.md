@@ -1,7 +1,7 @@
 ---
 title: Data governance
 parent: i-Sociaal Lab
-nav_order: 3
+nav_order: 1
 permalink: /data-governance/
 ---
 
