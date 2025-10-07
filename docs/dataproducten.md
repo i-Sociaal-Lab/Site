@@ -1,9 +1,9 @@
 ---
-title: Dashboards
+title: Dataproducten
 parent: i-Sociaal Lab
 nav_order: 2
-permalink: /dashboards/
+permalink: /dataproducten/
 ---
 
-# 📊 Dashboards
+# 📊 Dataproducten
 Korte uitleg… en knoppen naar de repo’s of releases.
