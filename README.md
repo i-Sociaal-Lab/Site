@@ -26,7 +26,7 @@ De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 Elke webpagina is een .md-bestand.
 Bovenin elke pagina staat een YAML-blok (de “front matter”) met instellingen zoals titel, navigatie en volgorde. 
 
-***Voorbeeld van YAML-blok***
+**Voorbeeld van YAML-blok**
 
 ```yaml
 title: Wachttijden
@@ -54,7 +54,7 @@ Deze YAML-file bepaalt:
 	•	navigatie-instellingen
 	•	links naar GitHub of zoekfunctie
 
-Voorbeeld:
+**Voorbeeld van _config.yml**:
 ```yaml
 title: i-Sociaal Lab
 description: Samen werken aan dataproducten
