@@ -4,5 +4,9 @@ parent: Jaapjunior
 nav_order: 2
 ---
 
-<meta http-equiv="refresh" content="0; url=https://github.com/i-Sociaal-Lab/jaapjunior" />
-<p>Doorsturen naar <a href="https://i-sociaal-lab.github.io/jaapjunior/Begrippenlijst-Jw-en-Wmo.html">JaapJunior Begrippenlijst</a>…</p>
+<p>Je wordt automatisch doorgestuurd naar de JaapJunior Begrippenlijst.</p>
+<p><a href="https://i-sociaal-lab.github.io/jaapjunior/Begrippenlijst-Jw-en-Wmo.html">Klik hier als dat niet gebeurt.</a></p>
+
+<script>
+  window.location.href = "https://i-sociaal-lab.github.io/jaapjunior/Begrippenlijst-Jw-en-Wmo.html";
+</script>
