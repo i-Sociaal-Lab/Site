@@ -56,6 +56,7 @@ Deze YAML-file bepaalt:
 
 Voorbeeld:
 
+
 **5.	Thema (Just-the-Docs)**
 
 Het thema verzorgt de layout, zijbalk, zoekbalk en structuur.
