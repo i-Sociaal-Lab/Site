@@ -1,7 +1,7 @@
 ---
 title: Jaapjunior
-parent: i-Sociaal Lab
-nav_order: 4
+parent: Data-producten
+nav_order: 2
 permalink: /jaapjunior/
 ---
 
