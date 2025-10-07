@@ -7,21 +7,21 @@ De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 
 ### 📁 Mappenstructuur
 
-docs/
+### 📂 Structuur overzicht
 
-index.md                ← hoofdpagina (startpagina)
-dashboards/
-wachttijden.md
-datakwaliteit.md
-datasets/
-cpb-leeftijdskosten.md
-zorgpaden/
-index.md
-assets/
-css/
-custom.scss         ← eigen opmaak (knoppen, layout)
-_config.yml             ← website-instellingen
-README.md                 ← uitleg voor beheerders
+- **docs/**
+  - `index.md` – hoofdpagina (start)
+  - **dashboards/**
+    - `wachttijden.md`
+    - `datakwaliteit.md`
+  - **datasets/**
+    - `cpb-leeftijdskosten.md`
+  - **zorgpaden/**
+    - `index.md`
+  - **assets/css/**
+    - `custom.scss` – opmaak
+  - `_config.yml` – site-instellingen
+- `README.md` – uitleg voor beheerders
 ⸻
 
 ### 🧩 Werking in het kort
