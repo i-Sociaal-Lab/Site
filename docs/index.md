@@ -13,7 +13,7 @@ Ons doel:
 
 Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële besparing, zowel financieel als maatschappelijk—cruciaal in tijden van financiële krapte.
 
-## Verken. Begrijp. Gebruik
+## Verken onze bouwstenen
 <div class="big-buttons">
   <a class="big-btn big-btn-blue1" href="./data-governance">Data Governance</a>
   <a class="big-btn big-btn-blue2" href="./dataproducten">Data-producten</a>
