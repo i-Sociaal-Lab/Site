@@ -76,6 +76,8 @@ aux_links:
 Het thema verzorgt de layout, zijbalk, zoekbalk en structuur.
 De navigatie-hiërarchie wordt automatisch opgebouwd op basis van de parent- en nav_order-velden in de front matter.
 
+---
+
 ### 🚀 Publicatie
 	•	GitHub Pages bouwt de site automatisch bij elke commit naar de main-branch.
 	•	De site wordt gepubliceerd op https://i-sociaal-lab.github.io
