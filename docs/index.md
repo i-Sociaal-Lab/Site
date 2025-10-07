@@ -27,5 +27,5 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
   <a href="/zorgpaden/" class="small-btn">🧭 Zorgpaden</a>
   <a href="/dashboards/wachttijden/" class="small-btn">⏱️ Wachttijden</a>
   <a href="/dashboards/datakwaliteit/" class="small-btn">📊 Datakwaliteit</a>
-  <a href="/datasets/cpb-leeftijdskosten/" class="small-btn">💶 Kosten per leeftijd</a>
+  <a href="/datasets/CPB-leeftijdskosten/" class="small-btn">💶 Uitgaven per leeftijd</a>
 </div>
