@@ -7,8 +7,6 @@ De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 
 ### 📁 Mappenstructuur
 
-### 📂 Structuur overzicht
-
 - **docs/**
   - `index.md` – hoofdpagina (start)
   - `_config.yml` – site-instellingen
