@@ -1,25 +1,26 @@
 ## 🧭 Handleiding – Opbouw van deze GitHub Pages-website
 
-url: 
+url: i-sociaal-lab.github.io
 
 Deze site is opgebouwd met GitHub Pages en Jekyll.
 De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 
 ### 📁 Mappenstructuur
 
-├── docs/
-│   ├── index.md                ← hoofdpagina (startpagina website)
-│   ├── dashboards/
-│   │   ├── wachttijden.md
-│   │   └── datakwaliteit.md
-│   ├── datasets/
-│   │   └── cpb-leeftijdskosten.md
-│   ├── assets/
-│   │   └── css/
-│   │       └── custom.scss     ← eigen opmaak (knoppen, layout)
-│   └── _config.yml             ← website-instellingen, thema keuze
-└── README.md                   ← (optioneel) uitleg voor beheerders
-
+docs/
+index.md                ← hoofdpagina (startpagina)
+dashboards/
+wachttijden.md
+datakwaliteit.md
+datasets/
+cpb-leeftijdskosten.md
+zorgpaden/
+index.md
+assets/
+css/
+custom.scss         ← eigen opmaak (knoppen, layout)
+_config.yml             ← website-instellingen
+README.md                 ← uitleg voor beheerders
 ⸻
 
 ### 🧩 Werking in het kort
