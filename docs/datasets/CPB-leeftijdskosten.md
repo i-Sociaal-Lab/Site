@@ -1,7 +1,8 @@
 ---
 title: CPB-uitgaven leeftijdscategorie
-nav_order: 1
 parent: Datasets
+nav_order: 1
+permalink: /Uitgaven leefijdscategorie/
 ---
 
 ## Uitgaven per leeftijdscategorie (2022)
