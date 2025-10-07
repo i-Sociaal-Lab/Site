@@ -31,10 +31,15 @@ Bovenin elke pagina staat een YAML-blok (de “front matter”) met instellingen
 
 Voorbeeld:
 `---
+
 title: Wachttijden
+
 parent: Data-producten
+
 nav_order: 3
+
 permalink: /dashboards/wachttijden/        ← exacte pad naar markdown pagina
+
 ---`
 Dit bepaalt hoe de pagina in het menu verschijnt en naar welke “ouderpagina” (zoals Data-producten) hij hoort.
 
