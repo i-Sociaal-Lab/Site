@@ -29,11 +29,13 @@ De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 Elke webpagina is een .md-bestand.
 Bovenin elke pagina staat een YAML-blok (de “front matter”) met instellingen zoals titel, navigatie en volgorde. 
 
-Voorbeeld:
-•	title: Wachttijden
-•	parent: Data-producten
-•	nav_order: 3
-•	permalink: /dashboards/wachttijden/        ← exacte pad naar markdown pagina
+### Voorbeeld van YAML-blok
+
+```yaml
+title: Wachttijden
+parent: Data-producten
+nav_order: 3
+permalink: /dashboards/wachttijden/   # exacte pad naar markdown-pagina
 
 Dit bepaalt hoe de pagina in het menu verschijnt en naar welke “ouderpagina” (zoals Data-producten) hij hoort.
 
