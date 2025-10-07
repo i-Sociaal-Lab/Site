@@ -28,6 +28,47 @@
 .big-btn-blue3:hover   { background-color:#63CDFD; }
 .big-btn-green:hover  { background-color:#2f855a; }
 
+/* ===========================
+   Kleine knoppen (uniforme stijl)
+   =========================== */
+
+.small-buttons { 
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 0.75rem; 
+  margin: 1.5rem 0; 
+}
+
+.small-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;             /* ruimte tussen emoji en tekst */
+  background-color: #f3f4f6; /* lichtgrijs */
+  color: #111 !important;
+  text-decoration: none !important;
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid #e0e0e0;
+}
+
+.small-btn:hover {
+  background-color: #e6e8eb; /* iets donkerder bij hover */
+  transform: translateY(-1px);
+}
+
+/* optioneel: variant voor iets opvallender kleur */
+.small-btn-accent {
+  background-color: #e8f1fc;
+  border-color: #c2d9f5;
+}
+
+.small-btn-accent:hover {
+  background-color: #dbe9fb;
+}
+
 /* Desktop: zet sidebar op vaste breedte en laat content ernaast meegroeien */
 @media (min-width: 1024px) {
   .side-bar {
