@@ -6,7 +6,7 @@ permalink: /datasets/CPB-leeftijdskosten/
 ---
 
 ## Uitgaven per leeftijdscategorie (2022)
-Voor het eerst heeft het CPB in haar Middellangetermijnraming zorg 2027 - 2033 de uitgaven per leeftijd aan Wmo en Jeugdwet gepubliceerd.
+Voor het eerst heeft het Centraal Planbureau (CPB) in haar Middellangetermijnraming zorg 2027 - 2033 de uitgaven per leeftijd aan Wmo en Jeugdwet gepubliceerd (februari 2025).
 
 De data komen uit het BerichtenVerkeer iJw en iWmo waarin de declaraties van gemeenten worden afgehandeld. De data in het BerichtenVerkeer zijn per zorgvorm (zoals “hulpmiddelen en diensten” en “verblijf en opvang” bij de Wmo en “jeugdhulp” en “jeugdbescherming” bij de Jeugdwet) geëxtrapoleerd. Randvoorwaarde bij deze extrapolatie is dat de uitgaven aansluiten bij de CBS-tabellen Wmo-maatwerkvoorzieningen en gemeentelijke kosten jeugdzorg per regio.
 
