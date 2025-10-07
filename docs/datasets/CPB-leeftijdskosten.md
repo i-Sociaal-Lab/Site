@@ -23,4 +23,6 @@ Bij de Wmo en Jeugdwet nemen de uitgaven ook toe met de leeftijd, waarbij de zor
 | 98 | 13184 | 40051 | 1612 | 0 |
 | 99 en ouder | 13129 | 42530 | 1610 | 0 |
 
+*gemiddelde uitgaven per inwoner (in euro's)*
+
 **Download:**  https://i-sociaal-lab.github.io/Site/datasets/CPB_uitgaven_per_leeftijdscategorie_2022.xlsx
