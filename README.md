@@ -24,7 +24,7 @@ De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 **1.	Markdown-pagina’s** 
 
 Elke webpagina is een .md-bestand.
-Bovenin elke pagina staat een YAML-blok (de “front matter”) met instellingen zoals titel, navigatie en volgorde. 
+Bovenin elke pagina staat een YAML-blok (de “front matter”) met instellingen zoals titel, navigatie en volgorde in de navigatie zijbalk. 
 
 **Voorbeeld van YAML-blok**
 
