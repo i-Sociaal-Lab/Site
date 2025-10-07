@@ -6,7 +6,7 @@ Deze site is opgebouwd met GitHub Pages en Jekyll.
 De inhoud staat in de map /docs, die GitHub gebruikt als basis voor publicatie.
 
 ### 📁 Mappenstructuur
-.
+
 ├── docs/
 │   ├── index.md                ← hoofdpagina (startpagina website)
 │   ├── dashboards/
