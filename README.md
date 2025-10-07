@@ -30,7 +30,7 @@ Elke webpagina is een .md-bestand.
 Bovenin elke pagina staat een YAML-blok (de “front matter”) met instellingen zoals titel, navigatie en volgorde. 
 
 Voorbeeld:
----
+`---`
 title: Wachttijden
 parent: Data-producten
 nav_order: 3
