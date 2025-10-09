@@ -30,11 +30,16 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 <div class="small-buttons">
    <a class="small-btn" href="./dashboards/datakwaliteit/" >📊 Datakwaliteit</a>
   <a class="small-btn" href="./jaapjunior/">💬 Jaapjunior</a>
-   <a class="small-btn" href="./datasets/CPB-leeftijdskosten/" >💶 Uitgaven per leeftijd</a>
   <a class="small-btn" href="./dashboards/wachttijden/" >⏱️ Wachttijden</a>
   <a class="small-btn" href="./zorgpaden/">🧭 Zorgpaden</a>
 </div>
 
+---
+
+## Direct naar datasets
+<div class="small-buttons">
+   <a class="small-btn" href="./datasets/CPB-leeftijdskosten/" >💶 Uitgaven per leeftijd</a>
+</div>
 ---
 
 ## Links naar andere data-communities
