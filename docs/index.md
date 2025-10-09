@@ -40,6 +40,7 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 <div class="small-buttons">
    <a class="small-btn" href="./datasets/CPB-leeftijdskosten/" >💶 Uitgaven per leeftijd</a>
 </div>
+
 ---
 
 ## Links naar andere data-communities
