@@ -13,7 +13,7 @@ Ons doel:
 
 Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële besparing, zowel financieel als maatschappelijk—cruciaal in tijden van financiële krapte.
 
-*i-Sociaal Lab is een initiatief van het Ketenbureau i-Sociaal Domein
+*i-Sociaal Lab is een initiatief van het Ketenbureau i-Sociaal Domein*
 
 ---
 
@@ -34,5 +34,13 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
   <a class="small-btn" href="./dashboards/wachttijden/" >⏱️ Wachttijden</a>
   <a class="small-btn" href="./zorgpaden/">🧭 Zorgpaden</a>
 </div>
+
+---
+
+## Links naar andere data-communities
+
+---
+
+## Links naar dataverzamelingen in Sociaal Domein
 
 ---
