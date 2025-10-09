@@ -26,7 +26,7 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 
 ---
 
-## Direct naar data-producten
+### Direct naar data-producten
 <div class="small-buttons">
    <a class="small-btn" href="./dashboards/datakwaliteit/" >📊 Datakwaliteit</a>
   <a class="small-btn" href="./jaapjunior/">💬 Jaapjunior</a>
@@ -36,17 +36,17 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 
 ---
 
-## Direct naar datasets
+### Direct naar datasets
 <div class="small-buttons">
    <a class="small-btn" href="./datasets/CPB-leeftijdskosten/" >💶 Uitgaven per leeftijd</a>
 </div>
 
 ---
 
-## Links naar andere data-communities
+### Links naar andere data-communities
 
 ---
 
-## Links naar dataverzamelingen in Sociaal Domein
+### Links naar dataverzamelingen in Sociaal Domein
 
 ---
