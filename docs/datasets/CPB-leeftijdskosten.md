@@ -12,6 +12,8 @@ De data komen uit het BerichtenVerkeer iJw en iWmo waarin de declaraties van gem
 
 Bij de Wmo en Jeugdwet nemen de uitgaven ook toe met de leeftijd, waarbij de zorg die vanuit de Jeugdwet wordt gefinancierd afloopt op het moment dat de ontvanger de leeftijd van 18 jaar bereikt. Deze afloop van de financiering vanuit de Jeugdwet verklaart naar verwachting ook de lokale piek bij de Wmo bij de jongvolwassenen.
 
+### Voorbeeld inhoud tabel CPB
+
 | Leeftijd | Zvw | Wlz | Wmo | Jeugd |
 | --- | --- | --- | --- | --- |
 | 0 | 4.430 | 5 | 1 | 85 |
