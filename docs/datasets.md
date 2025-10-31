@@ -6,4 +6,4 @@ permalink: /datasets/
 ---
 
 # 📊 Datasets
-Korte uitleg… en knoppen naar de repo’s of releases.
+Datasets die binnen het sociaal domein zijn ontwikkeld, worden hier met een korte toelichting opgenomen en zijn als download beschikbaar. 
