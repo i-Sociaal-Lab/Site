@@ -48,5 +48,8 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 ---
 
 ### Links naar dataverzamelingen in Sociaal Domein
+[Gemeentelijke Monitor Sociaal Domein](https://vng.nl/projecten/gemeentelijke-monitor-sociaal-domein)
+[Jeugdmonitor CBS](https://jmopendata.cbs.nl/#/JM/nl/)
+
 
 ---
