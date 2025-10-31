@@ -6,4 +6,4 @@ permalink: /dataproducten/
 ---
 
 # 📊 Data-producten
-Korte uitleg… en knoppen naar de repo’s of releases.
+De volgende data-producten zijn momenteel beschikbaar of in ontwikkeling:
