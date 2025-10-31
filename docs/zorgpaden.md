@@ -4,6 +4,7 @@ parent: Data-producten
 nav_order: 3
 permalink: /zorgpaden/
 ---
+# 🧩 Zorgpaden
 Tijdens onze hackathon in april 2025 is een team van gemeenten en zorgaanbieders aan de slag gegaan om een monitor Zorgpaden te ontwikkelen. Op basis hiervan heeft de regio Lekstroom een eerste data-product ontwikkeld. Deze wordt binnenkort hier gepresenteerd.
 
 ## Overige ontwikkelingen
