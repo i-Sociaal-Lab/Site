@@ -44,11 +44,13 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 ---
 
 ### Links naar andere data-communities
+-
 ➡️ [Kennisnetwerk Data en Samenleving](https://kennisnetwerkdata.pleio.nl/)
 ➡️ [Gemeentelijk Gegevensmodel (GGM)](https://www.gemeentelijkgegevensmodel.nl/v2.4.0/)
 ---
 
 ### Links naar dataverzamelingen en -producten in het Sociaal Domein
+-
 ➡️ [Gemeentelijke Monitor Sociaal Domein](https://vng.nl/projecten/gemeentelijke-monitor-sociaal-domein)
 ➡️ [Jeugdmonitor CBS](https://jmopendata.cbs.nl/#/JM/nl/)
 ➡️ [NJi Monitoring](https://www.nji.nl/monitoring)
