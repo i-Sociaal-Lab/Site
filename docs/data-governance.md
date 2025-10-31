@@ -15,6 +15,7 @@ In samenwerking met de IBD zijn twee standaard DPIA's opgesteld als voorbeeld vo
 2. **Regiemonitor**: voor monitor- en stuurinformatie.
 
 ➡️ [Klik hier om de DPIA Ketenmonitor te downloaden](https://i-sociaal-lab.github.io/Site/data-governance/DPIA-Ketenmonitor.docx)
+
 ➡️ [Klik hier om de DPIA Regiemonitor te downloaden](https://i-sociaal-lab.github.io/Site/data-governance/DPIA-Regiemonitor.docx)
 
 
