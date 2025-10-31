@@ -52,6 +52,7 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 ### Links naar dataverzamelingen en -producten in het Sociaal Domein
 - [Gemeentelijke Monitor Sociaal Domein](https://vng.nl/projecten/gemeentelijke-monitor-sociaal-domein)
 - [Jeugdmonitor CBS](https://jmopendata.cbs.nl/#/JM/nl/)
+- [Ketenanalyse techniek](https://kennisnetwerkdata.pleio.nl/groups/view/c7288eb5-9fe6-46ce-bb59-68bec22b05ed/data-science/blog/view/7dc9fead-b729-4108-9039-fd61089be0b5/verbeter-zorgtrajecten-met-ketenanalyse-machine-learning-techniek-nu-beschikbaar)
 - [NJi Monitoring](https://www.nji.nl/monitoring)
 - [Wmo voorspelmodel](https://vng.nl/projecten/wmo-voorspelmodel)
 ---
