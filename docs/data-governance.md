@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /data-governance/
 ---
 
-# 📊 Data governance
+# 🧭 Data governance
 Op deze pagina vind je lokale en landelijke voorbeelden die kunnen worden gebruikt in de eigen praktijk. 
 
 ## DPIA's
