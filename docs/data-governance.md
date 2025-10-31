@@ -23,5 +23,5 @@ In samenwerking met de IBD zijn twee standaard DPIA's opgesteld als voorbeeld vo
 ### Arnhem
 De gemeente Arnhem is vanaf 2015 actief bezig geweest met monitoring binnen het sociaal domein. In 2022 zijn ze een verbetertraject gestart om de monitoring te verbeteren zowel inhoudelijk als organisatorisch. In onderstaande documenten staat dit verder beschreven:
 
-1. [Informatiegestuurd werken](https://i-sociaal-lab.github.io/Site/data-governance/Arnhem/Informatiegestuurd-werken-Arnhem): in deze presentatie wordt uitgebreid ingegaan op achtereenvolgens de vraagstukken, de organisatie, de opgaven, de verschillende rollen, het data-team en de besturing van het data-team; 
-2. [Verbetertraject monitor Zorgdomein](https://i-sociaal-lab.github.io/Site/data-governance/Arnhem/Verbetertraject-monitor-Arnhem.pptx): in deze presentatie staat het ontwikkelproces beschreven van de monitor Zorgdomein (roadmap, proces, overleggen).
+1. **[Informatiegestuurd werken](https://i-sociaal-lab.github.io/Site/data-governance/Arnhem/Informatiegestuurd-werken-Arnhem.pdf)**: in deze presentatie wordt uitgebreid ingegaan op achtereenvolgens de vraagstukken, de organisatie, de opgaven, de verschillende rollen, het data-team en de besturing van het data-team; 
+2. **[Verbetertraject monitor Zorgdomein](https://i-sociaal-lab.github.io/Site/data-governance/Arnhem/Verbetertraject-monitor-Arnhem.pptx)**: in deze presentatie staat het ontwikkelproces beschreven van de monitor Zorgdomein (roadmap, proces, overleggen).
