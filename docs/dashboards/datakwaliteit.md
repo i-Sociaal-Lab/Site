@@ -4,4 +4,4 @@ parent: Data-producten
 nav_order: 1
 permalink: /dashboards/datakwaliteit/
 ---
-Hier komt de informatie over het dashboard datakwaliteit. 
+Het dashboard datakwaliteit is nog in ontwikkeling bij Team Aanpak Wachttijden. 
