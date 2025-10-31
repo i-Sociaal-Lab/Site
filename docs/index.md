@@ -44,8 +44,8 @@ Door hergebruik realiseren gemeenten en zorgaanbieders een substantiële bespari
 ---
 
 ### Links naar andere data-communities
-- [Kennisnetwerk Data en Samenleving](https://kennisnetwerkdata.pleio.nl/)
 - [Gemeentelijk Gegevensmodel (GGM)](https://www.gemeentelijkgegevensmodel.nl/v2.4.0/)
+- [Kennisnetwerk Data en Samenleving](https://kennisnetwerkdata.pleio.nl/)
   
 ---
 
